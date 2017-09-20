@@ -1,0 +1,9 @@
+﻿# This is one example of how you can use parameters to create posts (or letters!)
+RE: {{opportunity}}
+Dear {{company-contact}},
+My name is Kevin, my experiences are unorthodox, yet you may find greatly useful in just a moment. My bachelor degree was in architecture; there “I synthesized various systems into cohesive three-dimensional infrastructures for the betterment of the human experience.” That’s a fancy way of saying “I fatten developer’s pocketbooks by finding cheap workarounds with ad hoc design.” A tremendously useful skill, but shockingly unfulfilling.
+Later, I transitioned to medicine with the hope of giving 11 years of my life and $400,000 so that I might have the chance to stick endoscopes into people’s behinds (gastroenterology). “11 years to make a difference” became an eternity once I discovered a couple lines of JavaScript code could automate my blog saving me three hours a week. After adding some more code and some APIs, I created a social media automation system (I call it Ota) which has helped multiple business owners save time and money weekly.
+I bring this out-of-the-box thinking everywhere I go. {{company}} interests me because not only does it exemplify this need, but {{company}} {{interest}}. I have relevant experience in {{relevantexperience}} and will be an asset to {{company}}’s team. As proof my out-of-the-box thinking, this paragraph was developed in my parameter post writer app (see the simplified version of here: https://github.com/KevinDanikowski/my-post-and-parameter-writer).
+
+Look forward to your response,
+Kevin
